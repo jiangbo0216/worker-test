@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   entry: {
     index: './index.js',
-    md5: './md5.js',
+    // md5: './md5.js',
     gcidWorker: './gcid.worker.ts',
     gcid: './gcid.ts'
   },
